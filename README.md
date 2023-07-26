@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rituparno Das</h1>
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+
+
 <h3 align="center">A passionate Data Scientist looking for career opportunity</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dasrituparno&label=Profile%20views&color=0e75b6&style=flat" alt="dasrituparno" /> </p>
