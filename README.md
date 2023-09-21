@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Data Scientist looking for career opportunity</h3>
 <img align="right" alt="Coding" width="500" src="https://giphy.com/embed/KX5nwoDX97AtPvKBF6">
 
-
+<iframe src="https://giphy.com/embed/KX5nwoDX97AtPvKBF6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/motion-graphics-animated-gif-animation-KX5nwoDX97AtPvKBF6">via GIPHY</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dasrituparno&label=Profile%20views&color=0e75b6&style=flat" alt="dasrituparno" /> </p>
 
