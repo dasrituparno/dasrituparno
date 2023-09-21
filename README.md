@@ -1,7 +1,8 @@
 ![Data Science (1)](https://github.com/dasrituparno/dasrituparno/assets/122206874/741e7050-bc9d-4ce2-95cf-255fe724616f)
 <h1 align="center">Hi 👋, I'm Rituparno Das</h1>
 <h3 align="center">A passionate Data Scientist looking for career opportunity</h3>
-<img align="right" alt="Coding" width="500" src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif">
+<img align="right" alt="Coding" width="500" src="https://giphy.com/embed/KX5nwoDX97AtPvKBF6">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dasrituparno&label=Profile%20views&color=0e75b6&style=flat" alt="dasrituparno" /> </p>
