@@ -1,9 +1,9 @@
 ![Data Science (1)](https://github.com/dasrituparno/dasrituparno/assets/122206874/741e7050-bc9d-4ce2-95cf-255fe724616f)
 <h1 align="center">Hi 👋, I'm Rituparno Das</h1>
 <h3 align="center">A passionate Data Scientist looking for career opportunity</h3>
-<img align="right" alt="Coding" width="500" src="https://giphy.com/embed/KX5nwoDX97AtPvKBF6">
+<img align="right" alt="Coding" width="500" src="https://media0.giphy.com/media/KX5nwoDX97AtPvKBF6/200w.webp?cid=ecf05e47gfgw076l9rrxyw1ipvfne7ewrk2yt6pkm7j1gs92&ep=v1_gifs_search&rid=200w.webp&ct=g">
 
-<iframe src="https://giphy.com/embed/KX5nwoDX97AtPvKBF6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/motion-graphics-animated-gif-animation-KX5nwoDX97AtPvKBF6">via GIPHY</a></p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dasrituparno&label=Profile%20views&color=0e75b6&style=flat" alt="dasrituparno" /> </p>
 
