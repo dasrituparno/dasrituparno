@@ -1,4 +1,4 @@
-![Data Science](https://github.com/Hiren838/Hiren838/assets/73177128/b9f5d0c7-6233-4b83-9541-2a756cfd884d)
+![Data Science (1)](https://github.com/dasrituparno/dasrituparno/assets/122206874/741e7050-bc9d-4ce2-95cf-255fe724616f)
 <h1 align="center">Hi 👋, I'm Rituparno Das</h1>
 <h3 align="center">A passionate Data Scientist looking for career opportunity</h3>
 <img align="right" alt="Coding" width="500" src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif">
