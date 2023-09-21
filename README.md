@@ -1,7 +1,7 @@
 ![Data Science (1)](https://github.com/dasrituparno/dasrituparno/assets/122206874/741e7050-bc9d-4ce2-95cf-255fe724616f)
 <h1 align="center">Hi 👋, I'm Rituparno Das</h1>
 <h3 align="center">A passionate Data Scientist looking for career opportunity</h3>
-<img align="right" alt="Coding" width="500"src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW9oY3VsN2xwdzFwY29hb3B0bHlsZ2F1dmJyY211dnkydTM5a2Z1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KX5nwoDX97AtPvKBF6/giphy.gi">
+<img align="right" alt="Coding"width="500"src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW9oY3VsN2xwdzFwY29hb3B0bHlsZ2F1dmJyY211dnkydTM5a2Z1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KX5nwoDX97AtPvKBF6/giphy.gif">
 
 
 
