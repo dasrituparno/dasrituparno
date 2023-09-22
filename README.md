@@ -1,4 +1,5 @@
-![Data Science (1)](https://github.com/dasrituparno/dasrituparno/assets/122206874/741e7050-bc9d-4ce2-95cf-255fe724616f)
+<img align="center" width="868" alt="Screenshot 2023-09-23 044943" src="https://github.com/dasrituparno/dasrituparno/assets/122206874/055ed27d-f8b3-4447-bf9f-3c853434ed15">
+
 <h1 align="center">Hi 👋, I'm Rituparno Das</h1>
 <h3 align="center">A passionate Data Scientist looking for career opportunity</h3>
 <img align="right" alt="Coding"width="500"src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdkd25vMHA1MHI1dG8yYWQ0NnpvOWg0NjExcHBneGV3eGs5MDVtdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IcZhFmufozDCij3p22/giphy.gif">
